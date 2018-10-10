@@ -1,0 +1,22 @@
+c:\users\shade\documents\visual studio 2010\Projects\CarsProjectVB\CarsProjectVB\bin\Debug\CarsProjectVB.exe
+c:\users\shade\documents\visual studio 2010\Projects\CarsProjectVB\CarsProjectVB\bin\Debug\CarsProjectVB.pdb
+c:\users\shade\documents\visual studio 2010\Projects\CarsProjectVB\CarsProjectVB\bin\Debug\CarsProjectVB.xml
+c:\users\shade\documents\visual studio 2010\Projects\CarsProjectVB\CarsProjectVB\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\shade\documents\visual studio 2010\Projects\CarsProjectVB\CarsProjectVB\obj\x86\Debug\CarsProjectVB.Form1.resources
+c:\users\shade\documents\visual studio 2010\Projects\CarsProjectVB\CarsProjectVB\obj\x86\Debug\CarsProjectVB.Resources.resources
+c:\users\shade\documents\visual studio 2010\Projects\CarsProjectVB\CarsProjectVB\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\shade\documents\visual studio 2010\Projects\CarsProjectVB\CarsProjectVB\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\shade\documents\visual studio 2010\Projects\CarsProjectVB\CarsProjectVB\obj\x86\Debug\CarsProjectVB.exe
+c:\users\shade\documents\visual studio 2010\Projects\CarsProjectVB\CarsProjectVB\obj\x86\Debug\CarsProjectVB.xml
+c:\users\shade\documents\visual studio 2010\Projects\CarsProjectVB\CarsProjectVB\obj\x86\Debug\CarsProjectVB.pdb
+c:\users\shade\documents\visual studio 2010\Projects\CarsProjectVB\CarsProjectVB\bin\Debug\CarsProjectVB.exe.config
+c:\users\shade\documents\visual studio 2010\Projects\CarsProjectVB\CarsProjectVB\obj\x86\Debug\CarsProjectVB.DelMngNam.resources
+c:\users\shade\documents\visual studio 2010\Projects\CarsProjectVB\CarsProjectVB\obj\x86\Debug\CarsProjectVB.DelCarFrm.resources
+c:\users\shade\documents\visual studio 2010\Projects\CarsProjectVB\CarsProjectVB\obj\x86\Debug\CarsProjectVB.InsrtCrDtFrm.resources
+C:\Users\shade\Documents\Visual Studio 2010\Projects\CarsProjectVB\CarsProjectVB\obj\x86\Debug\CarsProjectVB.Picfrm.resources
+C:\Users\shade\Documents\Visual Studio 2010\Projects\CarsProjectVB\CarsProjectVB\obj\x86\Debug\RdlCompile.cache
+C:\Users\shade\Documents\Visual Studio 2010\Projects\CarsProjectVB\CarsProjectVB\obj\x86\Debug\RdlCompile.compiled
+C:\Users\asd\Desktop\CarsProjectVB\CarsProjectVB\bin\Debug\CarsProjectVB.exe.config
+C:\Users\asd\Desktop\CarsProjectVB\CarsProjectVB\obj\x86\Debug\CarsProjectVB.exe
+C:\Users\asd\Desktop\CarsProjectVB\CarsProjectVB\obj\x86\Debug\CarsProjectVB.xml
+C:\Users\asd\Desktop\CarsProjectVB\CarsProjectVB\obj\x86\Debug\CarsProjectVB.pdb
